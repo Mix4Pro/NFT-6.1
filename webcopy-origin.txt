@@ -1,0 +1,364 @@
+Uri: https://oncyber.io/
+File Name: D:\Copied Websites\oncyber.io\index.htm
+Content Type: text/html
+
+Uri: https://oncyber.io/academy?account=true
+File Name: D:\Copied Websites\oncyber.io\academy
+Content Type: text/html
+
+Uri: https://oncyber.io/anarrowthroughhistory
+File Name: D:\Copied Websites\oncyber.io\anarrowthroughhistory.html
+Content Type: text/html
+
+Uri: https://oncyber.io/create
+File Name: D:\Copied Websites\oncyber.io\create.html
+Content Type: text/html
+
+Uri: https://oncyber.io/explore
+File Name: D:\Copied Websites\oncyber.io\explore.html
+Content Type: text/html
+
+Uri: https://oncyber.io/fonts/headings/Aeonik-Air.otf
+File Name: D:\Copied Websites\oncyber.io\fonts\headings\Aeonik-Air.otf
+Content Type: font/otf
+
+Uri: https://oncyber.io/fonts/headings/Aeonik-AirItalic.otf
+File Name: D:\Copied Websites\oncyber.io\fonts\headings\Aeonik-AirItalic.otf
+Content Type: font/otf
+
+Uri: https://oncyber.io/fonts/headings/Aeonik-Black.otf
+File Name: D:\Copied Websites\oncyber.io\fonts\headings\Aeonik-Black.otf
+Content Type: font/otf
+
+Uri: https://oncyber.io/fonts/headings/Aeonik-Bold.otf
+File Name: D:\Copied Websites\oncyber.io\fonts\headings\Aeonik-Bold.otf
+Content Type: font/otf
+
+Uri: https://oncyber.io/fonts/headings/Aeonik-Medium.otf
+File Name: D:\Copied Websites\oncyber.io\fonts\headings\Aeonik-Medium.otf
+Content Type: font/otf
+
+Uri: https://oncyber.io/fonts/headings/Aeonik-Regular.otf
+File Name: D:\Copied Websites\oncyber.io\fonts\headings\Aeonik-Regular.otf
+Content Type: font/otf
+
+Uri: https://oncyber.io/fonts/headings/Aeonik-Thin.otf
+File Name: D:\Copied Websites\oncyber.io\fonts\headings\Aeonik-Thin.otf
+Content Type: font/otf
+
+Uri: https://oncyber.io/fonts/SpaceGrotesk/SpaceGrotesk-Bold.ttf
+File Name: D:\Copied Websites\oncyber.io\fonts\SpaceGrotesk\SpaceGrotesk-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://oncyber.io/fonts/SpaceGrotesk/SpaceGrotesk-Light.ttf
+File Name: D:\Copied Websites\oncyber.io\fonts\SpaceGrotesk\SpaceGrotesk-Light.ttf
+Content Type: font/ttf
+
+Uri: https://oncyber.io/fonts/SpaceGrotesk/SpaceGrotesk-Medium.ttf
+File Name: D:\Copied Websites\oncyber.io\fonts\SpaceGrotesk\SpaceGrotesk-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://oncyber.io/fonts/SpaceGrotesk/SpaceGrotesk-Regular.ttf
+File Name: D:\Copied Websites\oncyber.io\fonts\SpaceGrotesk\SpaceGrotesk-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://oncyber.io/fonts/SpaceGrotesk/SpaceGrotesk-SemiBold.ttf
+File Name: D:\Copied Websites\oncyber.io\fonts\SpaceGrotesk\SpaceGrotesk-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://oncyber.io/images/icons/bitski.png
+File Name: D:\Copied Websites\oncyber.io\images\icons\bitski.png
+Content Type: image/png
+
+Uri: https://oncyber.io/images/icons/coinbase.svg
+File Name: D:\Copied Websites\oncyber.io\images\icons\coinbase.svg
+Content Type: image/svg+xml
+
+Uri: https://oncyber.io/images/icons/discord.png
+File Name: D:\Copied Websites\oncyber.io\images\icons\discord.png
+Content Type: image/png
+
+Uri: https://oncyber.io/images/icons/external-link.svg
+File Name: D:\Copied Websites\oncyber.io\images\icons\external-link.svg
+Content Type: image/svg+xml
+
+Uri: https://oncyber.io/images/icons/fortmatic.png
+File Name: D:\Copied Websites\oncyber.io\images\icons\fortmatic.png
+Content Type: image/png
+
+Uri: https://oncyber.io/images/icons/github.png
+File Name: D:\Copied Websites\oncyber.io\images\icons\github.png
+Content Type: image/png
+
+Uri: https://oncyber.io/images/icons/instagram.png
+File Name: D:\Copied Websites\oncyber.io\images\icons\instagram.png
+Content Type: image/png
+
+Uri: https://oncyber.io/images/icons/metamask.png
+File Name: D:\Copied Websites\oncyber.io\images\icons\metamask.png
+Content Type: image/png
+
+Uri: https://oncyber.io/images/icons/niftygateway.png
+File Name: D:\Copied Websites\oncyber.io\images\icons\niftygateway.png
+Content Type: image/png
+
+Uri: https://oncyber.io/images/icons/opensea-transparent.svg
+File Name: D:\Copied Websites\oncyber.io\images\icons\opensea-transparent.svg
+Content Type: image/svg+xml
+
+Uri: https://oncyber.io/images/icons/phantom.png
+File Name: D:\Copied Websites\oncyber.io\images\icons\phantom.png
+Content Type: image/png
+
+Uri: https://oncyber.io/images/icons/search.svg
+File Name: D:\Copied Websites\oncyber.io\images\icons\search.svg
+Content Type: image/svg+xml
+
+Uri: https://oncyber.io/images/icons/tezos.svg
+File Name: D:\Copied Websites\oncyber.io\images\icons\tezos.svg
+Content Type: image/svg+xml
+
+Uri: https://oncyber.io/images/icons/twitter.png
+File Name: D:\Copied Websites\oncyber.io\images\icons\twitter.png
+Content Type: image/png
+
+Uri: https://oncyber.io/images/icons/walletconnect.png
+File Name: D:\Copied Websites\oncyber.io\images\icons\walletconnect.png
+Content Type: image/png
+
+Uri: https://oncyber.io/images/logo.png
+File Name: D:\Copied Websites\oncyber.io\images\logo.png
+Content Type: image/png
+
+Uri: https://oncyber.io/images/opensea-black.png
+File Name: D:\Copied Websites\oncyber.io\images\opensea-black.png
+Content Type: image/png
+
+Uri: https://oncyber.io/manifest.json
+File Name: D:\Copied Websites\oncyber.io\manifest.json
+Content Type: application/json
+
+Uri: https://oncyber.io/v2/fonts/PPNeueBit-Bold.ttf
+File Name: D:\Copied Websites\oncyber.io\v2\fonts\PPNeueBit-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://oncyber.io/v2/fonts/PPNeueBit-Regular.ttf
+File Name: D:\Copied Websites\oncyber.io\v2\fonts\PPNeueBit-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://oncyber.io/v2/icons/artworks.svg
+File Name: D:\Copied Websites\oncyber.io\v2\icons\artworks.svg
+Content Type: image/svg+xml
+
+Uri: https://oncyber.io/v2/icons/connect.svg
+File Name: D:\Copied Websites\oncyber.io\v2\icons\connect.svg
+Content Type: image/svg+xml
+
+Uri: https://oncyber.io/v2/icons/eye.svg
+File Name: D:\Copied Websites\oncyber.io\v2\icons\eye.svg
+Content Type: image/svg+xml
+
+Uri: https://oncyber.io/v2/icons/lightmode.svg
+File Name: D:\Copied Websites\oncyber.io\v2\icons\lightmode.svg
+Content Type: image/svg+xml
+
+Uri: https://oncyber.io/v2/icons/meridian-love.svg
+File Name: D:\Copied Websites\oncyber.io\v2\icons\meridian-love.svg
+Content Type: image/svg+xml
+
+Uri: https://oncyber.io/_next/static/65El1A4AGMHHMu-oFI0aX/_buildManifest.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\65El1A4AGMHHMu-oFI0aX\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/65El1A4AGMHHMu-oFI0aX/_middlewareManifest.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\65El1A4AGMHHMu-oFI0aX\_middlewareManifest.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/65El1A4AGMHHMu-oFI0aX/_ssgManifest.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\65El1A4AGMHHMu-oFI0aX\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/061e6b60-7663215c22dc49e1.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\061e6b60-7663215c22dc49e1.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/102d0109-f5b5461c4c283af6.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\102d0109-f5b5461c4c283af6.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/1432-68426ddeca96f407.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\1432-68426ddeca96f407.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/1609-c27b07072e960064.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\1609-c27b07072e960064.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/1816-aac330a6d5f97b2d.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\1816-aac330a6d5f97b2d.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/2289-8c3daea47ec70e08.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\2289-8c3daea47ec70e08.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/2331-6e8a38fa4ac7338d.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\2331-6e8a38fa4ac7338d.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/2660-60e730f61bd01d90.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\2660-60e730f61bd01d90.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/29107295-4a69275373f23f88.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\29107295-4a69275373f23f88.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/3742-c6313629cd01d615.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\3742-c6313629cd01d615.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/4735d9c5-eb3fae3926aa436d.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\4735d9c5-eb3fae3926aa436d.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/4953-76bbcd14299e3b24.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\4953-76bbcd14299e3b24.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/5002-9283ce956ddcd514.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\5002-9283ce956ddcd514.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/5007-ba71a8bccabbc429.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\5007-ba71a8bccabbc429.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/543-a36a458392821dea.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\543-a36a458392821dea.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/5729-8d1e52b7af83e726.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\5729-8d1e52b7af83e726.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/601-09e6cbdf481b1468.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\601-09e6cbdf481b1468.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/6389-971df021c1beb0a4.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\6389-971df021c1beb0a4.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/75fc9c18-90c2dd503d9fb0a6.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\75fc9c18-90c2dd503d9fb0a6.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/8015bd09-35f0cb84b311b706.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\8015bd09-35f0cb84b311b706.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/8242-a5ab7818f25d6ecc.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\8242-a5ab7818f25d6ecc.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/8764-593a836a579a1569.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\8764-593a836a579a1569.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/9016-e42608b73b20391f.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\9016-e42608b73b20391f.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/9500-14280d6e10777f2f.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\9500-14280d6e10777f2f.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/9506-9f49fce35af2b6f2.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\9506-9f49fce35af2b6f2.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/9649-be07c117cf97515d.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\9649-be07c117cf97515d.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/c4361d36-7d0bc9abdcdb24e8.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\c4361d36-7d0bc9abdcdb24e8.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/ef6e4229-ffe8621ab59f7bdf.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\ef6e4229-ffe8621ab59f7bdf.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/fec483df-3c40b926ce07cc60.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\fec483df-3c40b926ce07cc60.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/framework-79bce4a3a540b080.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\framework-79bce4a3a540b080.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/main-24755c50ed758af3.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\main-24755c50ed758af3.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/pages/[slug]-ae4d9d07009736d9.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\pages\[slug]-ae4d9d07009736d9.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/pages/academy-6405e737b577a943.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\pages\academy-6405e737b577a943.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/pages/create-becf45b88fa558e9.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\pages\create-becf45b88fa558e9.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/pages/explore-4e438e5eb190d91e.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\pages\explore-4e438e5eb190d91e.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/pages/index-c83b74d8be6efe46.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\pages\index-c83b74d8be6efe46.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/pages/_app-e010927f20da3e73.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\pages\_app-e010927f20da3e73.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/polyfills-5cd94c89d3acac5f.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\polyfills-5cd94c89d3acac5f.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/chunks/webpack-852836b868839175.js
+File Name: D:\Copied Websites\oncyber.io\_next\static\chunks\webpack-852836b868839175.js
+Content Type: application/javascript
+
+Uri: https://oncyber.io/_next/static/css/1cdd76e2fa708c91.css
+File Name: D:\Copied Websites\oncyber.io\_next\static\css\1cdd76e2fa708c91.css
+Content Type: text/css
+
+Uri: https://res.cloudinary.com/oncyber-io/image/upload/c_scale,w_914/v1652294070/assets/destinations/gagosian1_wzcpp4.png
+File Name: D:\Copied Websites\oncyber.io\oncyber-io\image\upload\c_scale,w_914\v1652294070\assets\destinations\gagosian1_wzcpp4.png
+Content Type: image/png
+
+Uri: https://res.cloudinary.com/oncyber-io/image/upload/v1649781938/assets/headline/3/headline-light_onqmi6.svg
+File Name: D:\Copied Websites\oncyber.io\oncyber-io\image\upload\v1649781938\assets\headline\3\headline-light_onqmi6.svg
+Content Type: image/svg+xml
+
+Uri: https://res.cloudinary.com/oncyber-io/image/upload/v1649867222/assets/headline/3/headline-2-light_fyptae.svg
+File Name: D:\Copied Websites\oncyber.io\oncyber-io\image\upload\v1649867222\assets\headline\3\headline-2-light_fyptae.svg
+Content Type: image/svg+xml
+
+Uri: https://res.cloudinary.com/oncyber-io/image/upload/v1649867222/assets/headline/3/headline-2_tbb0tc.svg
+File Name: D:\Copied Websites\oncyber.io\oncyber-io\image\upload\v1649867222\assets\headline\3\headline-2_tbb0tc.svg
+Content Type: image/svg+xml
+
+Uri: https://res.cloudinary.com/oncyber-io/image/upload/v1652294070/assets/destinations/gagosian1_wzcpp4.png
+File Name: D:\Copied Websites\oncyber.io\oncyber-io\image\upload\v1652294070\assets\destinations\gagosian1_wzcpp4.png
+Content Type: image/png
+
+Uri: https://res.cloudinary.com/oncyber-io/video/upload/c_scale,w_1080/v1646897354/assets/logo-light.mp4
+File Name: D:\Copied Websites\oncyber.io\oncyber-io\video\upload\c_scale,w_1080\v1646897354\assets\logo-light.mp4
+Content Type: video/mp4
+
